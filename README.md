@@ -1,4 +1,7 @@
 # Pathfinding-Tests
+## Latest release
+**[v0.1.0](https://github.com/romgbrte/Pathfinding-Tests/releases/tag/v0.1.0)**
+
 ## What is this?
 My semester-long project from a 2015 college course which calculates and displays the shortest path to sets of destination coordinates in graphs represented by tiled 3D rooms.
 
